@@ -89,3 +89,4 @@ public class App {
             return new ModelAndView(model,"index.hbs");
         }, new HandlebarsTemplateEngine());
     }
+}
