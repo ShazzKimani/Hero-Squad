@@ -55,4 +55,4 @@ public class Squad {
     public void addHero(Hero hero){
         mHeroes.add(hero);
     }
-}
+    }
